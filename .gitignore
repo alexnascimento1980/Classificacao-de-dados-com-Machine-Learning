@@ -1,0 +1,44 @@
+# =========================
+# Python
+# =========================
+# Arquivos compilados e de cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Jupyter Notebook
+# =========================
+# Checkpoints e backups automáticos
+.ipynb_checkpoints/
+/Desafios_+Hora+da+prática.ipynb
+
+# =========================
+# Ambientes Virtuais (Virtual Envs)
+# =========================
+venv/
+env/
+.env
+.venv/
+
+# =========================
+# Arquivos de Sistema Operacional
+# =========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# =========================
+# Dados e Modelos (Opcional)
+# =========================
+# Nota: Deixei comentados com '#' pois vi que você já subiu arquivos .csv e .pkl. 
+# Em projetos futuros com bases de dados gigantes (maiores que 100MB), 
+# remova a hashtag '#' abaixo para que o Git ignore esses formatos.
+# *.csv
+# *.pkl
+# *.xlsx
+# *.parquet
