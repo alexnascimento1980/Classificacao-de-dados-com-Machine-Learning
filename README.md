@@ -22,6 +22,8 @@ Embora as bases de dados deste repositório lidem com cenários de marketing, os
 ## 📁 Estrutura de Arquivos
 
 - 📓 `projeto inicial-classificacao_ Primeiros passos.ipynb`: Guia inicial e primeiros comandos na criação dos modelos.
+- 📓 `Desafios_+Hora+da+prática.ipynb`: Resoluções de desafios e exercícios para fixação do conhecimento.
+- 📓 `para usar no colab web.ipynb`: Versão do notebook otimizada para ser executada em nuvem.
 - 💾 `churn.csv` | `marketing_investimento.csv`: Datasets utilizados para treino e teste.
 - 📦 `modelo_arvore.pkl` | `modelo_onehotenc.pkl`: Arquivos serializados com os modelos já treinados.
 - 📄 `requirements.txt`: Dependências e bibliotecas necessárias para rodar o ambiente.
